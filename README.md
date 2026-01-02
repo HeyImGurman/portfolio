@@ -10,7 +10,7 @@
 
 This repository contains the source code for my personal portfolio website. It showcases my journey as a developer, the projects I've built, and the skills I've mastered.
 
-**🔗 [View Live Demo](https://eclectic-muffin-d8e6f6.netlify.app/)**
+**🔗 [View Live Demo](https://portfolio-grmn.netlify.app/)**
 
 ---
 
